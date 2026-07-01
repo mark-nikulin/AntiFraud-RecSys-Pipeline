@@ -1,0 +1,7 @@
+torch>=2.2.0
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+tensorboard>=2.16.0
+kaggle>=1.6.0
+tqdm>=4.66.0
